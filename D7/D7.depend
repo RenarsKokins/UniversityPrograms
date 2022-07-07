@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605798790 source:c:\programming\university\majasdarbi\d7\program.cpp
+	<iostream>
+	"program.h"
+
+1605789267 c:\programming\university\majasdarbi\d7\program.h
+
+1607598886 source:c:\programming\university\majasdarbi\d7\main.cpp
+	<iostream>
+	"program.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613221217 source:c:\programming\university\majasdarbi\apts-paldies\main.cpp
+	<iostream>
+	<fstream>
+

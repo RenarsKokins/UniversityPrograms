@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613303828 source:c:\programming\university\majasdarbi\apts-serveris\apts-serveris\main.cpp
+	<iostream>
+	<fstream>
+
+1613304129 source:c:\programming\university\majasdarbi\apts-serveris\apts-serveris\generator.cpp
+

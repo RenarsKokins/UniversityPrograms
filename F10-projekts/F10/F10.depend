@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613746357 source:c:\programming\university\majasdarbi\f10-projekts\f10\f10.cpp
+	<iostream>
+	<fstream>
+	<string>
+

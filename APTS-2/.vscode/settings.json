@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "xiosbase": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "list": "cpp",
+        "ostream": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp"
+    }
+}

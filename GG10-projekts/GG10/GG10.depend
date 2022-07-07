@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621549315 source:c:\programming\university\majasdarbi\gg10-projekts\gg10\gg10.cpp
+	<iostream>
+	"funkcija.h"
+
+1620226253 c:\programming\university\majasdarbi\gg10-projekts\gg10\gg10.h
+
+1620227650 source:c:\programming\university\majasdarbi\gg10-projekts\gg10\funkcija.cpp
+	<iostream>
+	"funkcija.h"
+
+1620226254 c:\programming\university\majasdarbi\gg10-projekts\gg10\funkcija.h
+

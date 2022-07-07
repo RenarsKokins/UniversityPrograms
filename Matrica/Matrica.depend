@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607066252 source:c:\programming\university\majasdarbi\matrica\matrica.cpp
+	"Matrica.h"
+	<iostream>
+
+1607066304 c:\programming\university\majasdarbi\matrica\matrica.h
+
+1607066370 source:c:\programming\university\majasdarbi\matrica\main.cpp
+	"Matrica.h"
+	<iostream>
+
